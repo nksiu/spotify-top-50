@@ -2,7 +2,7 @@
 Hello and thank you for checking out my project!
 This project is up on http://spotify-top-50.herokuapp.com/
 
-This application was created using React and Redux for the frontend and Express for the backend
+This application was created using React and Redux for the frontend and Express for the backend.
 In order to obtain the songs, the Spotify Web API is called
 
 ## Running Locally
